@@ -1,9 +1,9 @@
 [package]
-name = "mirage"
-version = "0.1.0"
 authors = ["Nathan Stocks <nathan.stocks@gmail.com>"]
 edition = "2018"
+name = "mirage"
+version = "0.1.0"
 
 [dependencies]
-image = "0.21.1"
-num-complex = "0.2.1"
+image = "0.23.12"
+num-complex = "0.3.1"
